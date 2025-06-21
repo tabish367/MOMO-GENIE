@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Momo Genie Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        .menu-section {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #2196F3;
+        }
+        .item {
+            margin: 5px 0;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Momo Genie Menu</h1>
+
+    <div class="menu-section">
+        <h2>🟩 Steamed Momos</h2>
+        <div class="item">Veg Momo – ₹30 (Half) / ₹60 (Full)</div>
+        <div class="item">Paneer Momo – ₹35 (Half) / ₹70 (Full)</div>
+        <div class="item">Chicken Momo – ₹40 (Half) / ₹70 (Full)</div>
+        <div class="item">Mix Platter – ₹70</div>
+    </div>
+
+    <div class="menu-section">
+        <h2>🔵 Fried Momos</h2>
+        <div class="item">Veg Momo – ₹35 (Half) / ₹70 (Full)</div>
+        <div class="item">Paneer Momo – ₹40 (Half) / ₹80 (Full)</div>
+        <div class="item">Chicken Momo – ₹45 (Half) / ₹80 (Full)</div>
+        <div class="item">Mix Platter – ₹80</div>
+    </div>
+
+    <div class="menu-section">
+        <h2>🌶️ Chilly Momos</h2>
+        <div class="item">Veg Momo – ₹50 (Half) / ₹100 (Full)</div>
+        <div class="item">Paneer Momo – ₹50 (Half) / ₹100 (Full)</div>
+        <div class="item">Chicken Momo – ₹60 (Half) / ₹120 (Full)</div>
+        <div class="item">Mix Platter – ₹110</div>
+    </div>
+
+    <div class="menu-section">
+        <h2>🟦 Crunchy Momos</h2>
+        <div class="item">Veg Momo – ₹50 (Half) / ₹100 (Full)</div>
+        <div class="item">Paneer Momo – ₹50 (Half) / ₹100 (Full)</div>
+        <div class="item">Chicken Momo – ₹60 (Half) / ₹120 (Full)</div>
+        <div class="item">Mix Platter – ₹120</div>
+    </div>
+
+    <div class="contact">
+        <p>📞 Contact: 7004742441</p>
+        <p>📍 Zomato & Swiggy Available</p>
+        <p>💳 Paytm Accepted</p>
+        <p>🔖 FSSAI Reg No.: 20421031001352</p>
+        <p>🧞‍♂️ “We Make Your Hunger Wish True”</p>
+    </div>
+
+</body>
+</html>
